@@ -1,0 +1,20 @@
+{
+  "name": "fis-deploy-zip",
+  "version": "0.0.1",
+  "description": "fis zip deploy plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "deploy",
+    "zip",
+    "plugin"
+  ],
+  "author": "FIS",
+  "license": "BSD",
+  "dependencies": {
+    "easy-zip": "^0.0.4"
+  }
+}
